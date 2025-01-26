@@ -28,9 +28,6 @@
 8. **Contact (Optional)**
    - How people can reach you if they have questions or feedback.
 
----
-
-### **Example of a Custom `README.md`:**
 
 
 # Customer Analysis Project
